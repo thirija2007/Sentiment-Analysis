@@ -286,24 +286,3 @@ The project can be improved by adding:
 * DistilBERT
 
 ---
-
-## 📸 Application Screenshot
-
-After running the application, you can take a screenshot of your Streamlit page and add it to the repository.
-
-For example:
-
-```text
-![Sentiment Analysis Application](screenshot.png)
-```
-
-If you add the screenshot, keep the image file in the same repository:
-
-```text
-Sentiment-Analysis/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── screenshot.png
-```
